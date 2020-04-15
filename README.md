@@ -1,11 +1,11 @@
-#Squizer
+# Squizer
 
-##Build
+## Build
 This project is built with Maven. It uses Spring and Spring MVC as architecture. The database is mounted by hibernate, whose generation options are in application.properties.
 
 This project was build on Ubuntu 18.04, during a professional training session.
 
-##Install
+## Install
 First run (detailed process with command line) :
 
 Install default java jdk sudo apt install defaul-jdk Install mysql and create the database 'Quizz'. sudo apt install mysql-server `sudo mysql -p` (enter your passphrase) 
